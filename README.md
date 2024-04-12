@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @larnelle Ankunda
-- 👀 I’m interested in Software Development and Product Management
-- 🌱 I’m currently learning Computer Science
-- 🐍 I’m looking to collaborate on multiple projects with a current focus on python
+- 👀 I’m interested in Software Development and Cybersecurity
+- 🌱 I’m currently learning Applied Data Structures
+- 🐍 I’m looking to collaborate on multiple projects with a current focus on Python, Javascript, HTML, and CSS
 - 📫 How to reach me (larnelleankunda50@gmail.com)
 
 <!---
