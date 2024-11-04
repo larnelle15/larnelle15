@@ -6,10 +6,6 @@
   <img width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/larnelle15/larnelle15/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 # 💫 About Me 
 
 ```javascript
