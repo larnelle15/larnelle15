@@ -2,17 +2,7 @@
   <h1 style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 30px; color: #4285F4;">
     Hey, I'm Larnelle!
   </h1>
-  <div style="width:400px;height:0;padding-bottom:400px;position:relative;">
-    <iframe 
-      src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" 
-      width="100%" 
-      height="100%" 
-      style="position:absolute" 
-      frameBorder="0" 
-      class="giphy-embed" 
-      allowFullScreen
-    ></iframe>
-  </div>
+  <img width="400" src="https://media.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif" alt="Typing Penguin Animation"/>
 </div>
 
 # 💫 About Me 
