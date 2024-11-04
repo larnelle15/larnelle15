@@ -1,84 +1,134 @@
-# 👋 Hello World! I'm Larnelle Ankunda
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Larnelle!;Full+Stack+Developer;Google+%26+Salesforce+Alumni" alt="Typing SVG" />
+</div>
 
-[![Gmail Badge](https://img.shields.io/badge/-larnelleankunda50@gmail.com-00ff00?style=flat&logo=Gmail&logoColor=white)](mailto:larnelleankunda50@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/larnelle15?label=Follow&style=social)](https://github.com/larnelle15)
+<div align="center">
+  <img src="https://github.com/larnelle15/larnelle15/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-## 💫 About Me
+# 💫 About Me 
 
 ```javascript
 const LarnelleAnkunda = {
-    role: "Full Stack Developer & Cybersecurity Enthusiast",
+    role: "Full Stack Developer",
+    experience: {
+        google: "Software Engineer",
+        salesforce: "Developer"
+    },
     currentFocus: "Applied Data Structures",
     passions: ["Web Development", "Security", "API Integration"],
-    dailyMotto: "Building the future, one commit at a time! 🚀"
+    motto: "Innovation through code 🚀"
 };
 ```
 
-## 🛠️ Tech Arsenal
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Google%20Alumni-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Salesforce%20Alumni-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+</div>
+
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-00ff00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-00ff00?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-00ff00?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-00ff00?style=for-the-badge&logo=react&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-00ff00?style=for-the-badge&logo=three.js&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-00ff00?style=for-the-badge&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-00ff00?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-00ff00?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-00ff00?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-00ff00?style=for-the-badge&logo=python&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-00ff00?style=for-the-badge&logo=jest&logoColor=white)
-![SuperTest](https://img.shields.io/badge/-SuperTest-00ff00?style=for-the-badge&logo=supertest&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00ff00?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![SuperTest](https://img.shields.io/badge/-SuperTest-4B32C3?style=for-the-badge&logo=supertest&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔌 API Integration
-![Google Maps](https://img.shields.io/badge/-Google%20Maps%20API-00ff00?style=for-the-badge&logo=google-maps&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-00ff00?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-00ff00?style=for-the-badge&logo=openai&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/-Google%20OAuth-00ff00?style=for-the-badge&logo=google&logoColor=white)
-![TMDB](https://img.shields.io/badge/-TMDB%20API-00ff00?style=for-the-badge&logo=themoviedatabase&logoColor=white)
-![GIPHY](https://img.shields.io/badge/-GIPHY%20API-00ff00?style=for-the-badge&logo=giphy&logoColor=white)
+### 🔌 API Integration Experience
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
+      </td>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Amazon%20S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon S3" />
+      </td>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
+      </td>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-TMDB%20API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="TMDB" />
+      </td>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-GIPHY%20API-FF6666?style=for-the-badge&logo=giphy&logoColor=white" alt="GIPHY" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larnelle15&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=larnelle15&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larnelle15&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larnelle15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larnelle15&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=larnelle15&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
 
-## 🌟 What I'm Up To
+## 🎯 Current Focus
 
-- 🔭 Currently mastering Applied Data Structures
-- 🛡️ Exploring Cybersecurity concepts
-- 🤝 Open to collaborate on innovative projects
-- 📚 Always learning and growing in tech
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs" alt="Skills" /><br/>
+  Working on advanced projects using modern tech stack
+</div>
 
-## 🤝 Let's Connect!
+## 💼 Experience Highlights
 
-I'm always excited to collaborate on interesting projects! Whether you want to:
-- 🤜🤛 Team up on a project
-- 💡 Exchange ideas
-- 🚀 Build something awesome
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" width="200"/>
+        <br/>
+        <sub>Software Engineer</sub>
+      </td>
+      <td align="center">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" width="200"/>
+        <br/>
+        <sub>Developer</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 📫 Reach Out
-- 📧 Email: larnelleankunda50@gmail.com
-- 💼 GitHub: [larnelle15](https://github.com/larnelle15)
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:larnelleankunda50@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/larnelle15">
+    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larnelle15&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=larnelle15&style=for-the-badge&color=0891b2" alt="Profile Views" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=larnelle15&color=00ff00&style=flat)
-
----
-⚡ *"Code is poetry written in logic"* ⚡
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</div>
