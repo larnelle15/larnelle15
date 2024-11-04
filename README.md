@@ -6,7 +6,14 @@
   </h1>
 </div>
 <div align="center">
-  <img width="400" src="https://media.giphy.com/media/3o7TKSRNcdPlqZTwHe/giphy.gif" alt="Record Store Browsing"/>
+  <iframe 
+    src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" 
+    width="400" 
+    height="400" 
+    frameBorder="0" 
+    class="giphy-embed" 
+    allowFullScreen
+  ></iframe>
 </div>
 
 # 💫 About Me 
