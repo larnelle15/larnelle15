@@ -22,8 +22,8 @@ const LarnelleAnkunda = {
 ```
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Google%20Alumni-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
-  <img src="https://custom-icon-badges.demolab.com/badge/-Salesforce%20Alumni-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Prev.%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Incoming%20Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </div>
 
 ## 🛠️ Tech Stack
@@ -102,12 +102,12 @@ const LarnelleAnkunda = {
       <td align="center">
         <img src="https://custom-icon-badges.demolab.com/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" width="200"/>
         <br/>
-        <sub>Software Engineer</sub>
+        <sub>Scholar</sub>
       </td>
       <td align="center">
         <img src="https://custom-icon-badges.demolab.com/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" width="200"/>
         <br/>
-        <sub>Developer</sub>
+        <sub>Software Engineer</sub>
       </td>
     </tr>
   </table>
