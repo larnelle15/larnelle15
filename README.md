@@ -4,7 +4,8 @@
   </h1>
   <img width="400" src="https://media.giphy.com/media/bNnEPuKewBhcItuUUY/giphy.gif" alt="Recording Studio Animation"/>
 </div>
-# 💫 About Me 
+
+## 💫 About Me 
 
 ```javascript
 const LarnelleAnkunda = {
