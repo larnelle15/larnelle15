@@ -1,10 +1,9 @@
-<div align="center">
+ <div align="center">
   <h1 style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 30px; color: #4285F4;">
     Hey, I'm Larnelle!
   </h1>
-  <img width="400" src="https://media.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif" alt="Typing Penguin Animation"/>
+  <img width="400" src="https://media.giphy.com/media/bNnEPuKewBhcItuUUY/giphy.gif" alt="Recording Studio Animation"/>
 </div>
-
 # 💫 About Me 
 
 ```javascript
