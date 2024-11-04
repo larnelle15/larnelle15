@@ -1,19 +1,18 @@
 <div align="center">
   <h1 style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 30px; color: #4285F4;">
     Hey, I'm Larnelle!
-    <br>
-    A Full Stack Developer
   </h1>
-</div>
-<div align="center">
-  <iframe 
-    src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" 
-    width="400" 
-    height="400" 
-    frameBorder="0" 
-    class="giphy-embed" 
-    allowFullScreen
-  ></iframe>
+  <div style="width:400px;height:0;padding-bottom:400px;position:relative;">
+    <iframe 
+      src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" 
+      width="100%" 
+      height="100%" 
+      style="position:absolute" 
+      frameBorder="0" 
+      class="giphy-embed" 
+      allowFullScreen
+    ></iframe>
+  </div>
 </div>
 
 # 💫 About Me 
