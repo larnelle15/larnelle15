@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=100&color=4285F4&center=true&vCenter=true&repeat=true&width=435&lines=Hey%2C+I'm+Larnelle!;A+Full+Stack+Developer" alt="Typing SVG" />
+  <h1 style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 30px; color: #4285F4;">
+    Hey, I'm Larnelle!
+    <br>
+    A Full Stack Developer
+  </h1>
 </div>
-
 <div align="center">
-  <img width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+  <img width="400" src="https://media.giphy.com/media/3o7TKSRNcdPlqZTwHe/giphy.gif" alt="Record Store Browsing"/>
 </div>
 
 # 💫 About Me 
