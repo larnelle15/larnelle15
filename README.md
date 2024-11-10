@@ -2,7 +2,11 @@
   <h1 style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 30px; color: #4285F4;">
     Hey, I'm Larnelle!
   </h1>
-  <img width="400" src="https://media.giphy.com/media/bNnEPuKewBhcItuUUY/giphy.gif" alt="Recording Studio Animation"/>
+  <img 
+    width="480" 
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+    alt="Screen Monitor Closeup"
+  />
 </div>
 
 ## 💫 About Me 
